@@ -137,5 +137,11 @@
 			]
 		}
 	],
+	"TargetPlatforms": [
+		"Linux",
+		"LinuxArm64",
+		"Windows",
+		"Android"
+	],
 	"EpicSampleNameHash": "255728979"
 }
