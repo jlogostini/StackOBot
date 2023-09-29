@@ -1,5 +1,5 @@
 #define MyAppName "Stack-O-Bot"
-#define MyAppVersion "1.1"
+#define MyAppVersion "1.2"
 #define MyAppPublisher "Epic Games, Inc."
 #define MyAppURL "https://github.com/jlogostini/StackOBot"
 #define MyAppExeName "StackOBot.exe"
