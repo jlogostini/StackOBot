@@ -147,7 +147,10 @@
 	"TargetPlatforms": [
 		"Linux",
 		"LinuxArm64",
+		"PS5",
+		"XSX",
 		"Windows",
+		"WinGDK",
 		"Android"
 	],
 	"EpicSampleNameHash": "255728979"
