@@ -45,6 +45,7 @@
 *.ignore
 *.code-workspace
 *.vsconfig
+*Makefile
 
 # Precompiled Assets
 /SourceArt/**/*.png
