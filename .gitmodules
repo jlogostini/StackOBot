@@ -1,0 +1,3 @@
+[submodule "Plugins/AsyncLoadingScreen"]
+	path = Plugins/AsyncLoadingScreen
+	url = git@github.com:truong-bui/AsyncLoadingScreen.git
