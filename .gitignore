@@ -90,21 +90,10 @@
 *bak*.hda*
 *.autosave
 *_autosave_*.spp
-*.assbin
 
-# Substance Painter Lock Files
+# Temporary Files
 *.spp.painter_lock
-
-# Windows Generated Files
-ehthumbs.db
-Thumbs.db
-
-# Mac Generated Files
-.DS_Store
-.DS_Store?
-.AppleDouble
-.LSOverride
-._*
+*.assbin
 
 # Linux Generated Files
 *~
@@ -118,10 +107,18 @@ Thumbs.db
 Session.vim
 .netrwhist
 
-# Temporary Substance Textures
-**/textures/substance
-**/substance*tx/
+# Windows Generated Files
+ehthumbs.db
+Thumbs.db
 
-# Stuff i don't like!
-Platforms/HoloLens/Config/HoloLensEngine.ini
-*Libraries/Substance_Painter/**/README.txt
+# Mac Generated Files
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
+
+# Mono-specific ignores
+.mono/
+data_*/
+mono_crash.*.json
